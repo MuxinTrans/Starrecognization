@@ -1,0 +1,5 @@
+﻿  main.c
+F:\CODE\C_VS\RDmatProj\RDmatProj\top_data.h(1,1): warning C4828: 文件包含在偏移 0x215 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+F:\CODE\C_VS\RDmatProj\RDmatProj\main.c(50,78): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+F:\CODE\C_VS\RDmatProj\RDmatProj\main.c(55,41): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+  RDmatProj.vcxproj -> F:\CODE\C_VS\RDmatProj\x64\Debug\RDmatProj.exe
